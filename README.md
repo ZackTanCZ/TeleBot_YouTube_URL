@@ -22,6 +22,6 @@ To enhance the bot's persistence, a NoSQL database, specifically `MongoDB`, will
 To ensure continuous operation of the bot, it is necessary to deploy it to a hosting platform. This involves hosting both the Python script and the MongoDB database on separate platforms.
 
 Platforms for Consideration:
-* MongoDB `MongoDB Atlas`
-* Python Scipt `PythonAnyWhere`
+* `MongoDB` [MongoDB Atlas](https://cloud.mongodb.com/v2/6736f07f33b7a4212f94707c#/host/replicaSet/6736f23d3dfe6a1dbe0e97dd)
+* `Python Scipt` [PythonAnyWhere](https://www.pythonanywhere.com/) | [AWS Lambda](https://aws.amazon.com/lambda/?did=ft_card&trk=ft_card)
 
