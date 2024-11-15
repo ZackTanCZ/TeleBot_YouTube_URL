@@ -23,3 +23,7 @@ In this iteration, MongoDB is ran locally with MongoCompass by connecting to the
 ## Future Works
 To ensure continuous operation of the bot, it is necessary to deploy it to a hosting platform. This involves hosting both the Python script and the MongoDB database on separate platforms.
 
+Platforms for Consideration:
+* MongoDB `MongoDB Atlas`
+* Python Scipt `PythonAnyWhere`
+
